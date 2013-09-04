@@ -30,4 +30,6 @@ Ejemplo práctico para tarea "Llevando git un paso más allá"
 
 * `conflicto` linea generada en branch segundaRama
 
+
+
 * `conflicto2` linea generada desde branch master

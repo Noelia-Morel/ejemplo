@@ -25,3 +25,7 @@ Ejemplo práctico para tarea "Llevando git un paso más allá"
 * `git remote add origin direccion_repo_remoto`, para agregar un repositorio remoto al proyecto, llamándolo "origin".
 * `git push -u origin master`, para subir el repositorio local en el repositorio remoto. No debe haber conflictos entre ambos para que la operación se resuelva correctamente. De haberlos, deberá resolverse en forma local.
 * `git pull origin master`, para bajar una copia del repositorio remoto dentro del branch especificado, en este caso 'master', al repositorio local. Puede haber conflictos de merge, que se resolverán del modo indicado anteriormente.
+
+
+
+* `conflicto` linea generada en branch segundaRama
